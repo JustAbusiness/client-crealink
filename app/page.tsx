@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-        <h1> Hello 500Bros  </h1>
+        <img src="https://i.ytimg.com/vi/DpjvXVWGVNs/maxresdefault.jpg" className="logo"></img>
     </div>
   );
 }
